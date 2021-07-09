@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         //준상선배 레포지토리임.
         println("밥먹고싶다.")
         //선린인터넷고등학교
+        // 1학년
     }
 }
